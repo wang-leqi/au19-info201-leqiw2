@@ -3,7 +3,7 @@ The purpose of this file is for you to demonstrate your knowledge of working wit
 
 ```bash
 # Print your working directory
-pwd
+pwd 
 # List the files in your current directory
 ls
 # Change your directory to a folder in which you do work for this class
