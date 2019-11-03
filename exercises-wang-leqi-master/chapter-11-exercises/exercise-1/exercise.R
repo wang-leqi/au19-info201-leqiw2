@@ -11,15 +11,15 @@ library(fueleconomy)
 
 # You should now have access to the `vehicles` data frame
 # You can use `View()` to inspect it
-
+View(vehicles)
 
 # Select the different manufacturers (makes) of the cars in this data set. 
 # Save this vector in a variable
-
+makes <- vehicles[vehicles$make != makes, "make"]
 
 # Use the `unique()` function to determine how many different car manufacturers
 # are represented by the data set
-
+unique(vihecles, )
 
 # Filter the data set for vehicles manufactured in 1997
 
